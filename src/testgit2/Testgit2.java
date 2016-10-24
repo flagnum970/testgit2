@@ -17,7 +17,7 @@ public class Testgit2 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("ceci est le source de la branche 1");
+        System.out.println("ceci est le source de la branche 1 que je modifie");
     }
     
 }
